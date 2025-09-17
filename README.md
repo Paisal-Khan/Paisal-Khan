@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paisal-khan&label=Profile%20views&color=0e75b6&style=flat" alt="paisal-khan" /> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS**  
 - 📫 How to reach me: **paisalkhan78@gmail.com | LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:paisalkhan78@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<a href="mailto:paisalkhan78@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="gmail" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/paisal-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paisal khan" height="30" width="40" /></a>
 <a href="https://instagram.com/paisalkhan67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paisalkhan67" height="30" width="40" /></a>
 </p>
