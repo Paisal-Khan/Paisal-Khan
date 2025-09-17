@@ -11,7 +11,7 @@
 - 🎓 Fresher with strong foundation in **Python, SQL, Power BI, Excel, AWS & ETL**  
 - 🌱 Currently learning **AWS Cloud **  
 - 💡 Interested in **Data Analytics, Data Engineering **  
-- 📫 Reach me at: **paisalkhan78@gmail.com**
+- 📫 Reach me at: **paisalkhan78@gmail.com | Linkdin**
 
 ---
 
