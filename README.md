@@ -46,11 +46,3 @@
     <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-data-data-science-soft-fill-soft-fill-juicy-fish.png" alt="etl" width="50" height="50"/> 
   </a>
 </p>
-
----
-
-<h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paisal-khan&show_icons=true&theme=tokyonight" alt="github-stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paisal-khan&theme=tokyonight" alt="github-streak" height="150"/>
-</p>
