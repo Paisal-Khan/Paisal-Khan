@@ -32,13 +32,26 @@
 
 <h3 align="center">🛠️ Skills & Tools</h3>
 <p align="center">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="50" height="50"/> </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="50" height="50"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="excel" width="50" height="50"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="50" height="50"/> </a>
-  <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank"> <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-data-data-science-soft-fill-soft-fill-juicy-fish.png" alt="etl" width="50" height="50"/> </a>
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="50" height="50"/> 
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="50" height="50"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel" width="50" height="50"/> 
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="aws" width="50" height="50"/> 
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank"> 
+    <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-data-data-science-soft-fill-soft-fill-juicy-fish.png" alt="etl" width="50" height="50"/> 
+  </a>
 </p>
+
 
 ---
 
