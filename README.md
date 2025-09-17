@@ -20,7 +20,7 @@
   <a href="mailto:paisalkhan78@gmail.com" target="blank">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="gmail" height="40" width="40"/>
   </a>
-  <a href="https://linkedin.com/in/paisal-khan" target="blank">
+  <a href="https://linkedin.com/in/paisalkhan" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40"/>
   </a>
   <a href="https://instagram.com/paisalkhan67" target="blank">
