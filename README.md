@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paisalkhan</h1>
-<h3 align="center">🚀 Data Engineer | Data Analyst </h3>
+<h3 align="center">🚀 Data Analyst </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paisal-khan&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
@@ -8,9 +8,8 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 Fresher with strong foundation in **Python, SQL, Power BI, Excel, AWS & ETL**  
-- 🌱 Currently learning **AWS Cloud **  
-- 💡 Interested in **Data Analytics, Data Engineering **  
+- 🎓 Fresher with strong foundation in **Python, SQL, Power BI, Excel **   
+- 💡 Interested in **Data Analytics **  
 - 📫 Reach me at: **paisalkhan78@gmail.com | Linkdin**
 
 ---
