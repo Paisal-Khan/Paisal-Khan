@@ -56,12 +56,3 @@
 <p align="center">
   I aspire to become a skilled <b>Data Analyst</b> who delivers clear, impactful insights through dashboards, reports, and storytelling. My goal is to help teams make smarter decisions using data.
 </p>
-
----
-
-<h3 align="center">📈 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paisal-khan&show_icons=true&theme=radical" alt="Paisal's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paisal-khan&theme=radical" alt="GitHub Streak" />
-</p>
